@@ -1,0 +1,10 @@
+.card{
+    background: $color-3;
+    & p{
+        color: $color-1;
+    }
+}
+
+.card-content{
+ color: $color-1;
+}
