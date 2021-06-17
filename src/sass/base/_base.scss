@@ -1,0 +1,18 @@
+*{
+    h1{
+        margin: 0;
+        font-family: "estilo1", 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        margin-left: 3vw;
+        width: fit-content;
+        padding-left: 1vw;
+        padding-right: 1vw;
+        padding-bottom: 0.3vw;
+        background-color: $color-6;
+        color: $color-1;
+        font-weight: 800;
+    }
+}
+
+body{
+    background: $gradient-body;
+}
