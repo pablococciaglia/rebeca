@@ -1,6 +1,5 @@
 import React from 'react'
 import entrevistas from '../assets/entrevistas/entrevistas'
-import ReactPlayer from 'react-player/lazy'
 import YouTube from 'react-youtube';
 
 export const Interviews = () => {
@@ -26,7 +25,7 @@ export const Interviews = () => {
                                 </div>
                             </div>
                         </div>
-                        
+
                     ))} 
             </div>
                 
