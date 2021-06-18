@@ -2,13 +2,11 @@
     h1{
         margin: 0;
         font-family: "estilo1", 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-        margin-left: 3vw;
-        width: fit-content;
-        padding-left: 1vw;
-        padding-right: 1vw;
+        padding-left: 3vw;
         padding-bottom: 0.3vw;
-        background-color: $color-6;
+        background-image: linear-gradient(to right,$color-6, lighten($color-6, 9%));
         color: $color-1;
+        
         font-weight: 800;
     }
 }
